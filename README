@@ -25,3 +25,6 @@ The parser need only be rebuilt when deca.scc has been altered.
 
 Happy hacking!
 --Eli Gottlieb
+
+License
+GNU GPL v3
